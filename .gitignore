@@ -1,0 +1,32 @@
+# Raw datasets
+Listings.csv
+Reviews.csv
+Data/Listings_data_dictionary.csv
+Data/Reviews_data_dictionary.csv
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Environment files
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
